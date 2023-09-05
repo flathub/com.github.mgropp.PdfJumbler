@@ -1,7 +1,7 @@
 {
     "id": "com.github.mgropp.PdfJumbler",
     "runtime": "org.freedesktop.Platform",
-    "runtime-version": "20.08",
+    "runtime-version": "22.08",
     "command": "pdfjumbler",
     "sdk": "org.freedesktop.Sdk",
     "sdk-extensions": ["org.freedesktop.Sdk.Extension.openjdk11"],
