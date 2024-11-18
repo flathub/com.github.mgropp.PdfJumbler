@@ -1,7 +1,7 @@
 {
     "id": "com.github.mgropp.PdfJumbler",
     "runtime": "org.freedesktop.Platform",
-    "runtime-version": "22.08",
+    "runtime-version": "24.08",
     "command": "pdfjumbler",
     "sdk": "org.freedesktop.Sdk",
     "sdk-extensions": ["org.freedesktop.Sdk.Extension.openjdk11"],
@@ -49,8 +49,8 @@
             "sources": [
                 {
                     "type": "file",
-                    "url": "https://github.com/mgropp/pdfjumbler/releases/download/v0.3.0/pdfjumbler.jar",
-                    "sha256": "b44dbfaa03464d77a11ad80550cdf64bf101089b04fd54669ed8ceeca390663c"
+                    "url": "https://github.com/mgropp/pdfjumbler/releases/download/v0.4.0/pdfjumbler.jar",
+                    "sha256": "551b29996f6e4e4aeedf8b9cf18ef42dcdd467948b7e6a72cd5711a619efd18d"
                 },
                 {
                   "type": "file",
